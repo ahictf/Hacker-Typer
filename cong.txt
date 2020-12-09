@@ -1,0 +1,8 @@
+> AHI_CTF OS 1.5 Z
+> Welcome To AHI CTF
+> AHI_CTF Login: test1234
+> AHI_CTF Password: **********
+> AHI_CTF Login Success
+
+> Congratulations on your graduation and good luck in the future!!!
+> From Saran Kaewnang AKA "AHI AHI",MiSS#12

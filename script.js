@@ -67,12 +67,12 @@ var Typer={
 	  var console=$("#console")
 		if(key.key==='Alt'){// key 18 = alt key
 			Typer.accessCount++; //increase counter
-			if(Typer.accessCount>=3){// if it's pressed 3 times
+			if(Typer.accessCount>=1){// if it's pressed 3 times
 				Typer.makeAccess(); // make access popup
 			}
 		}else if(key.key==='CapsLock'){// key 20 = caps lock
 			Typer.deniedCount++; // increase counter
-			if(Typer.deniedCount>=3){ // if it's pressed 3 times
+			if(Typer.deniedCount>=1){ // if it's pressed 3 times
 				Typer.makeDenied(); // make denied popup
 			}
 		}else if(key.key==='Esc' || key.key==='Escape'){ // key 27 = esc key
